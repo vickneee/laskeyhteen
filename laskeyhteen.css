@@ -14,10 +14,10 @@ body {
     font-size: 20px;
     font-family: "Monospaced", sans-serif;
     width: 670px;
-    border: 2px solid #550000;
+
     padding: 40px 40px 40px 40px;
     background: #b34d4d;
-    box-shadow: 5px 10px #888888;
+    box-shadow: 20px 20px 50px 10px pink inset;
 }
 
 input {
@@ -28,7 +28,7 @@ input {
     border: 2px solid #550000;
 }
 
-.flex_1 {
+.flex {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
