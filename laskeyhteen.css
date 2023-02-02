@@ -19,7 +19,7 @@ body {
     background: #b34d4d;
 }
 
-.input {
+input {
     float: right;
     font-size: 20px;
     font-weight: bold;

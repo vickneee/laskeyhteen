@@ -1,5 +1,6 @@
 function LaskeYhteen() {
-    var num1 = parseInt(document.getElementById("myform").elements["num1"].value);
-    var num2 = parseInt(document.getElementById("myform").elements["num2"].value);
-    document.getElementById("summa").innerHTML = num1 + num2;
+    var numero1 = Number(document.getElementById("num1").value);
+    var numero2 = Number(document.getElementById("num2").value);
+    var summa = numero1 + numero2;
+    document.getElementById("summa").innerHTML = summa;
 }
