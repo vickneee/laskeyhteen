@@ -44,10 +44,10 @@ body {
 
 .buttons button:hover,
 .buttons button:active {
-    background: #eed7d7;
-    color: #772828;
+    background: #531c1c;
+    color: white;
     cursor: pointer;
-    border: 2px solid #772828;
+    border: 2px solid #f7ebeb;
 }
 
 .buttons p {
